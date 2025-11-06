@@ -2,25 +2,81 @@
   {
     "symbol": "Ger40",
     "order": "BUY",
-    "entry": 17880.0,
-    "sl": 17780.0,
+    "entry": 17920.0,
+    "sl": 17820.0,
     "tp": 18080.0,
-    "comment": "TEST: DAX Long - sofortiger Marktpreisbereich"
+    "comment": "DAX (Ger40) Long – Pullback auf 4h-EMA50 mit bestätigtem Rebound"
   },
   {
     "symbol": "GOLD",
     "order": "SELL",
-    "entry": 3970.0,
-    "sl": 3990.0,
-    "tp": 3930.0,
-    "comment": "TEST: Gold Short - Brokerpreis ca. 3970"
+    "entry": 3965.0,
+    "sl": 3985.0,
+    "tp": 3920.0,
+    "comment": "GOLD Short – Abprall am Widerstand bei ~3970 nach US-Inflation"
   },
   {
     "symbol": "SILVER",
     "order": "BUY",
-    "entry": 26.00,
-    "sl": 25.70,
-    "tp": 26.80,
-    "comment": "TEST: Silber Buy - enge Range"
+    "entry": 26.05,
+    "sl": 25.75,
+    "tp": 26.75,
+    "comment": "SILVER Long – Trendfortsetzung nach Ausbruch über Range"
+  },
+  {
+    "symbol": "EURUSD",
+    "order": "BUY",
+    "entry": 1.0795,
+    "sl": 1.0750,
+    "tp": 1.0850,
+    "comment": "EUR/USD Long – USD-Schwäche nach US-Daten, EUR-Impulse"
+  },
+  {
+    "symbol": "USDJPY",
+    "order": "SELL",
+    "entry": 151.10,
+    "sl": 151.80,
+    "tp": 149.90,
+    "comment": "USD/JPY Short – Yen stärkt nach BoJ-Hinweisen"
+  },
+  {
+    "symbol": "GBPUSD",
+    "order": "BUY",
+    "entry": 1.2465,
+    "sl": 1.2410,
+    "tp": 1.2550,
+    "comment": "GBP/USD Long – Breakout über 1.2450 nach Daten"
+  },
+  {
+    "symbol": "AUDUSD",
+    "order": "SELL",
+    "entry": 0.6600,
+    "sl": 0.6640,
+    "tp": 0.6550,
+    "comment": "AUD/USD Short – Rohstoffwährung unter Druck"
+  },
+  {
+    "symbol": "USDCHF",
+    "order": "SELL",
+    "entry": 0.8800,
+    "sl": 0.8840,
+    "tp": 0.8730,
+    "comment": "USD/CHF Short – Schweizer Franken als Zuflucht"
+  },
+  {
+    "symbol": "NZDUSD",
+    "order": "BUY",
+    "entry": 0.6150,
+    "sl": 0.6100,
+    "tp": 0.6230,
+    "comment": "NZD/USD Long – Kiwi erholt sich nach angekündigter Geldpolitik"
+  },
+  {
+    "symbol": "USDCAD",
+    "order": "SELL",
+    "entry": 1.3450,
+    "sl": 1.3500,
+    "tp": 1.3350,
+    "comment": "USD/CAD Short – Kanadischer Dollar profitiert vom Ölpreis"
   }
 ]
