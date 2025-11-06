@@ -1,0 +1,26 @@
+[
+  {
+    "symbol": "GER40",
+    "order": "BUY",
+    "entry": 17880.0,
+    "sl": 17780.0,
+    "tp": 18080.0,
+    "comment": "TEST: DAX Long - sofortiger Marktpreisbereich"
+  },
+  {
+    "symbol": "GOLD",
+    "order": "SELL",
+    "entry": 3970.0,
+    "sl": 3990.0,
+    "tp": 3930.0,
+    "comment": "TEST: Gold Short - Brokerpreis ca. 3970"
+  },
+  {
+    "symbol": "SILVER",
+    "order": "BUY",
+    "entry": 26.00,
+    "sl": 25.70,
+    "tp": 26.80,
+    "comment": "TEST: Silber Buy - enge Range"
+  }
+]
