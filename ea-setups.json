@@ -2,97 +2,97 @@
   {
     "symbol": "Ger40",
     "order": "BUY",
-    "entry": 23780.0,
-    "sl": 23660.0,
-    "tp": 24000.0,
-    "comment": "DAX Long – Rebound am H4-Support nach moderater EZB-Zinslage"
+    "entry": 23850.0,
+    "sl": 23730.0,
+    "tp": 24090.0,
+    "comment": "DAX Long – starker Rebound nach Unterstützungszone"
   },
   {
     "symbol": "Ger40",
     "order": "SELL",
-    "entry": 23950.0,
-    "sl": 24110.0,
-    "tp": 23700.0,
-    "comment": "DAX Short – Risiko-Off-Signal könnte Abwärtsbewegung auslösen"
+    "entry": 24120.0,
+    "sl": 24250.0,
+    "tp": 23800.0,
+    "comment": "DAX Short – Widerstand bei 24 100 und Risiko-Off möglich"
   },
   {
     "symbol": "GOLD",
     "order": "BUY",
-    "entry": 3960.0,
-    "sl": 3920.0,
-    "tp": 4020.0,
-    "comment": "Gold Long – Safe-Haven bei geopolitischen Spannungen"
+    "entry": 3975.0,
+    "sl": 3945.0,
+    "tp": 4025.0,
+    "comment": "Gold Long – Safe-Haven gefragt bei geopolitischer Unsicherheit"
   },
   {
     "symbol": "GOLD",
     "order": "SELL",
-    "entry": 4025.0,
-    "sl": 4055.0,
-    "tp": 3950.0,
-    "comment": "Gold Short – USD-Stärke könnte Rally bremsen"
+    "entry": 4020.0,
+    "sl": 4050.0,
+    "tp": 3955.0,
+    "comment": "Gold Short – USD-Stärke könnte Edelmetalle belasten"
   },
   {
     "symbol": "SILVER",
     "order": "BUY",
-    "entry": 51.80,
-    "sl": 50.80,
-    "tp": 53.20,
-    "comment": "Silber Long – setzt Gold-Move mit Hebel fort"
+    "entry": 52.40,
+    "sl": 51.70,
+    "tp": 53.80,
+    "comment": "Silber Long – Technik bestätigt Aufwärtsdrift angelehnt an Gold"
   },
   {
     "symbol": "SILVER",
     "order": "SELL",
-    "entry": 53.20,
+    "entry": 53.60,
     "sl": 54.20,
-    "tp": 50.60,
-    "comment": "Silber Short – falls Rohstoffnachfrage schwächelt"
+    "tp": 52.00,
+    "comment": "Silber Short – Risikoappetit sorgt für Rückgang der Industriemetalle"
   },
   {
     "symbol": "EURUSD",
     "order": "BUY",
-    "entry": 1.0670,
+    "entry": 1.0675,
     "sl": 1.0630,
-    "tp": 1.0730,
-    "comment": "EUR/USD Long – EUR könnte profitieren bei US-Datenflaute"
+    "tp": 1.0740,
+    "comment": "EUR/USD Long – EUR stabilisiert sich trotz US-Daten"
   },
   {
     "symbol": "EURUSD",
     "order": "SELL",
     "entry": 1.0745,
-    "sl": 1.0780,
-    "tp": 1.0670,
-    "comment": "EUR/USD Short – USD­Stärke nach Fed‐Tonlage"
+    "sl": 1.0785,
+    "tp": 1.0660,
+    "comment": "EUR/USD Short – USD könnte durch Erholung steigen"
   },
   {
     "symbol": "USDJPY",
     "order": "BUY",
-    "entry": 150.90,
-    "sl": 150.10,
-    "tp": 152.50,
-    "comment": "USD/JPY Long – Zinsdifferenz + Risk-Off"
+    "entry": 151.40,
+    "sl": 150.80,
+    "tp": 152.80,
+    "comment": "USD/JPY Long – USD-Renditen und JPY-Schwäche bleiben Thema"
   },
   {
     "symbol": "USDJPY",
     "order": "SELL",
-    "entry": 152.70,
-    "sl": 153.50,
-    "tp": 150.80,
-    "comment": "USD/JPY Short – Yen Stärke bei globaler Nervosität"
+    "entry": 150.80,
+    "sl": 151.40,
+    "tp": 149.60,
+    "comment": "USD/JPY Short – Yen könnte Stärke zeigen bei Risiko-Off"
   },
   {
     "symbol": "LCrude",
     "order": "BUY",
-    "entry": 75.80,
-    "sl": 74.50,
-    "tp": 78.60,
-    "comment": "LCrude Long – Angebotssorgen & geopolitische Risiken"
+    "entry": 76.80,
+    "sl": 75.60,
+    "tp": 79.20,
+    "comment": "LCrude Long – Angebotssorgen & Konjunkturerholung sprechen für Öl"
   },
   {
     "symbol": "LCrude",
     "order": "SELL",
-    "entry": 78.80,
-    "sl": 80.20,
-    "tp": 75.00,
-    "comment": "LCrude Short – Nachfragefokus bleibt schwach"
+    "entry": 79.40,
+    "sl": 80.80,
+    "tp": 76.00,
+    "comment": "LCrude Short – Nachfrage-Schwäche könnte Öl unter Druck setzen"
   }
 ]
