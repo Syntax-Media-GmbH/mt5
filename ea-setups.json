@@ -1,19 +1,19 @@
 [
-  {
+ {
     "symbol": "Ger40",
     "order": "BUY",
     "entry": 23780.0,
-    "sl": 23680.0,
-    "tp": 23980.0,
-    "comment": "DAX Long – Bounce am H4-Support 23750, Stops ≥100 Points"
+    "sl": 23660.0,
+    "tp": 23990.0,
+    "comment": "H4-Rebound; SL/TP > 1.00 Abstand"
   },
   {
     "symbol": "Ger40",
     "order": "SELL",
     "entry": 23950.0,
-    "sl": 24050.0,
-    "tp": 23700.0,
-    "comment": "DAX Short – Rejection an 24000er Widerstand, Stops ≥100 Points"
+    "sl": 24080.0,
+    "tp": 23720.0,
+    "comment": "Rejection an 24k; SL/TP > 1.00 Abstand"
   },
   {
     "symbol": "GOLD",
