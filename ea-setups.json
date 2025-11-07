@@ -1,82 +1,90 @@
 [
   {
     "symbol": "Ger40",
+    "order": "SELL",
+    "entry": 17880.0,
+    "sl": 18080.0,
+    "tp": 17600.0,
+    "comment": "DAX Short – Risikoaversion nach Fed-Hawkish-Tone, EMA50-Break bestätigt"
+  },
+  {
+    "symbol": "Ger40",
     "order": "BUY",
-    "entry": 17920.0,
-    "sl": 17820.0,
-    "tp": 18080.0,
-    "comment": "DAX (Ger40) Long – Pullback auf 4h-EMA50 mit bestätigtem Rebound"
+    "entry": 17700.0,
+    "sl": 17580.0,
+    "tp": 17950.0,
+    "comment": "DAX Rebound Long – Range-Support bei 17.700 hält, RSI neutralisiert"
+  },
+  {
+    "symbol": "GOLD",
+    "order": "BUY",
+    "entry": 3965.0,
+    "sl": 3935.0,
+    "tp": 4015.0,
+    "comment": "Gold Long – Safe-Haven-Flow nach geopolitischen Spannungen, 20EMA-Support"
   },
   {
     "symbol": "GOLD",
     "order": "SELL",
-    "entry": 3965.0,
-    "sl": 3985.0,
-    "tp": 3920.0,
-    "comment": "GOLD Short – Abprall am Widerstand bei ~3970 nach US-Inflation"
+    "entry": 4025.0,
+    "sl": 4055.0,
+    "tp": 3970.0,
+    "comment": "Gold Short – USD-Stärke bei 10Y-Renditen über 4,7 %, MACD Divergenz"
   },
   {
     "symbol": "SILVER",
     "order": "BUY",
-    "entry": 26.05,
-    "sl": 25.75,
-    "tp": 26.75,
-    "comment": "SILVER Long – Trendfortsetzung nach Ausbruch über Range"
+    "entry": 26.00,
+    "sl": 25.70,
+    "tp": 26.80,
+    "comment": "Silber Long – folgt Gold-Momentum, RSI über 50, Break über 25.90 bestätigt"
+  },
+  {
+    "symbol": "EURUSD",
+    "order": "SELL",
+    "entry": 1.0710,
+    "sl": 1.0750,
+    "tp": 1.0640,
+    "comment": "EUR/USD Short – USD-Momentum nach Fed-Kommentar, 20/50EMA Cross"
   },
   {
     "symbol": "EURUSD",
     "order": "BUY",
-    "entry": 1.0795,
-    "sl": 1.0750,
-    "tp": 1.0850,
-    "comment": "EUR/USD Long – USD-Schwäche nach US-Daten, EUR-Impulse"
+    "entry": 1.0660,
+    "sl": 1.0620,
+    "tp": 1.0740,
+    "comment": "EUR/USD Long – Support bei 1.0660 stabil, technische Gegenbewegung möglich"
+  },
+  {
+    "symbol": "USDJPY",
+    "order": "BUY",
+    "entry": 151.30,
+    "sl": 150.70,
+    "tp": 152.50,
+    "comment": "USD/JPY Long – Zinsdifferenz bleibt hoch, MACD positiv, ATR-Trend stabil"
   },
   {
     "symbol": "USDJPY",
     "order": "SELL",
-    "entry": 151.10,
-    "sl": 151.80,
-    "tp": 149.90,
-    "comment": "USD/JPY Short – Yen stärkt nach BoJ-Hinweisen"
+    "entry": 150.50,
+    "sl": 151.10,
+    "tp": 149.60,
+    "comment": "USD/JPY Short – technischer Pullback nach RSI-Überkauft über 70"
   },
   {
-    "symbol": "GBPUSD",
+    "symbol": "WTI",
     "order": "BUY",
-    "entry": 1.2465,
-    "sl": 1.2410,
-    "tp": 1.2550,
-    "comment": "GBP/USD Long – Breakout über 1.2450 nach Daten"
+    "entry": 74.20,
+    "sl": 72.80,
+    "tp": 77.40,
+    "comment": "WTI Long – geopolitische Spannungen stützen, 4h-Support bestätigt"
   },
   {
-    "symbol": "AUDUSD",
+    "symbol": "WTI",
     "order": "SELL",
-    "entry": 0.6600,
-    "sl": 0.6640,
-    "tp": 0.6550,
-    "comment": "AUD/USD Short – Rohstoffwährung unter Druck"
-  },
-  {
-    "symbol": "USDCHF",
-    "order": "SELL",
-    "entry": 0.8800,
-    "sl": 0.8840,
-    "tp": 0.8730,
-    "comment": "USD/CHF Short – Schweizer Franken als Zuflucht"
-  },
-  {
-    "symbol": "NZDUSD",
-    "order": "BUY",
-    "entry": 0.6150,
-    "sl": 0.6100,
-    "tp": 0.6230,
-    "comment": "NZD/USD Long – Kiwi erholt sich nach angekündigter Geldpolitik"
-  },
-  {
-    "symbol": "USDCAD",
-    "order": "SELL",
-    "entry": 1.3450,
-    "sl": 1.3500,
-    "tp": 1.3350,
-    "comment": "USD/CAD Short – Kanadischer Dollar profitiert vom Ölpreis"
+    "entry": 73.00,
+    "sl": 74.50,
+    "tp": 70.80,
+    "comment": "WTI Short – Nachfrageangst nach US-Inventardaten, EMA-Cross bärisch"
   }
 ]
