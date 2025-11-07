@@ -2,18 +2,18 @@
   {
     "symbol": "Ger40",
     "order": "BUY",
-    "entry": 23750.0,
-    "sl": 23600.0,
-    "tp": 24000.0,
-    "comment": "DAX Rebound bei Inflation auf ~2% und moderatem Zinsdruck"
+    "entry": 23780.0,
+    "sl": 23680.0,
+    "tp": 23980.0,
+    "comment": "DAX Long – Bounce am H4-Support 23750, Stops ≥100 Points"
   },
   {
     "symbol": "Ger40",
     "order": "SELL",
     "entry": 23950.0,
-    "sl": 24100.0,
+    "sl": 24050.0,
     "tp": 23700.0,
-    "comment": "DAX Short bei Risiko‑Off (geopolitischer Schock)"
+    "comment": "DAX Short – Rejection an 24000er Widerstand, Stops ≥100 Points"
   },
   {
     "symbol": "GOLD",
