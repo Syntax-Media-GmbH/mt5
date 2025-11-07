@@ -3,7 +3,7 @@
     "symbol": "Ger40",
     "order": "BUY",
     "entry": 23780.0,
-    "sl": 23660.0,
+    "sl": 0,
     "tp": 23990.0,
     "comment": "H4-Rebound; SL/TP > 1.00 Abstand"
   },
@@ -11,7 +11,7 @@
     "symbol": "Ger40",
     "order": "SELL",
     "entry": 23950.0,
-    "sl": 24080.0,
+    "sl": 0,
     "tp": 23720.0,
     "comment": "Rejection an 24k; SL/TP > 1.00 Abstand"
   },
