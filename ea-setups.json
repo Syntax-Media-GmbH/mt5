@@ -1,27 +1,27 @@
 [
- {
+  {
     "symbol": "Ger40",
     "order": "BUY",
     "entry": 23780.0,
-    "sl": 0,
-    "tp": 23990.0,
-    "comment": "H4-Rebound; SL/TP > 1.00 Abstand"
+    "sl": 23660.0,
+    "tp": 24000.0,
+    "comment": "DAX Long – Rebound am H4-Support nach moderater EZB-Zinslage"
   },
   {
     "symbol": "Ger40",
     "order": "SELL",
     "entry": 23950.0,
-    "sl": 0,
-    "tp": 23720.0,
-    "comment": "Rejection an 24k; SL/TP > 1.00 Abstand"
+    "sl": 24110.0,
+    "tp": 23700.0,
+    "comment": "DAX Short – Risiko-Off-Signal könnte Abwärtsbewegung auslösen"
   },
   {
     "symbol": "GOLD",
     "order": "BUY",
-    "entry": 3950.0,
+    "entry": 3960.0,
     "sl": 3920.0,
     "tp": 4020.0,
-    "comment": "Gold Long – sichere Häfen bei Zins‑/USD‑Unsicherheit"
+    "comment": "Gold Long – Safe-Haven bei geopolitischen Spannungen"
   },
   {
     "symbol": "GOLD",
@@ -29,23 +29,23 @@
     "entry": 4025.0,
     "sl": 4055.0,
     "tp": 3950.0,
-    "comment": "Gold Short – wenn USD/Zinsdruck durchbricht"
+    "comment": "Gold Short – USD-Stärke könnte Rally bremsen"
   },
   {
     "symbol": "SILVER",
     "order": "BUY",
-    "entry": 50.80,
-    "sl": 49.80,
-    "tp": 53.00,
-    "comment": "Silber Long – folgt Gold, jedoch stärker volatil"
+    "entry": 51.80,
+    "sl": 50.80,
+    "tp": 53.20,
+    "comment": "Silber Long – setzt Gold-Move mit Hebel fort"
   },
   {
     "symbol": "SILVER",
     "order": "SELL",
     "entry": 53.20,
     "sl": 54.20,
-    "tp": 50.40,
-    "comment": "Silber Short – bei abgeblasener Risiko‑Stimmung"
+    "tp": 50.60,
+    "comment": "Silber Short – falls Rohstoffnachfrage schwächelt"
   },
   {
     "symbol": "EURUSD",
@@ -53,7 +53,7 @@
     "entry": 1.0670,
     "sl": 1.0630,
     "tp": 1.0730,
-    "comment": "EUR/USD Long – leichte EZB‑Entspannung, moderater EUR"
+    "comment": "EUR/USD Long – EUR könnte profitieren bei US-Datenflaute"
   },
   {
     "symbol": "EURUSD",
@@ -61,7 +61,7 @@
     "entry": 1.0745,
     "sl": 1.0780,
     "tp": 1.0670,
-    "comment": "EUR/USD Short – falls USD‑Stärke dominiert"
+    "comment": "EUR/USD Short – USD­Stärke nach Fed‐Tonlage"
   },
   {
     "symbol": "USDJPY",
@@ -69,7 +69,7 @@
     "entry": 150.90,
     "sl": 150.10,
     "tp": 152.50,
-    "comment": "USD/JPY Long – USD‑Zinsdifferenz und Risk‑Off möglich"
+    "comment": "USD/JPY Long – Zinsdifferenz + Risk-Off"
   },
   {
     "symbol": "USDJPY",
@@ -77,22 +77,22 @@
     "entry": 152.70,
     "sl": 153.50,
     "tp": 150.80,
-    "comment": "USD/JPY Short – Yen‑Stärke bei globalem Wachstumsproblem"
+    "comment": "USD/JPY Short – Yen Stärke bei globaler Nervosität"
   },
   {
-    "symbol": "WTI",
+    "symbol": "LCrude",
     "order": "BUY",
     "entry": 75.80,
     "sl": 74.50,
     "tp": 78.60,
-    "comment": "WTI Long – geopolitisches Risiko + moderater Wachstumsausblick"
+    "comment": "LCrude Long – Angebotssorgen & geopolitische Risiken"
   },
   {
-    "symbol": "WTI",
+    "symbol": "LCrude",
     "order": "SELL",
     "entry": 78.80,
     "sl": 80.20,
     "tp": 75.00,
-    "comment": "WTI Short – bei globaler Nachfrage‑Schwäche"
+    "comment": "LCrude Short – Nachfragefokus bleibt schwach"
   }
 ]
