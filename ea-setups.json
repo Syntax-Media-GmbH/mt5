@@ -1,90 +1,98 @@
 [
   {
     "symbol": "Ger40",
-    "order": "SELL",
-    "entry": 17880.0,
-    "sl": 18080.0,
-    "tp": 17600.0,
-    "comment": "DAX Short – Risikoaversion nach Fed-Hawkish-Tone, EMA50-Break bestätigt"
+    "order": "BUY",
+    "entry": 23750.0,
+    "sl": 23600.0,
+    "tp": 24000.0,
+    "comment": "DAX Rebound bei Inflation auf ~2% und moderatem Zinsdruck"
   },
   {
     "symbol": "Ger40",
-    "order": "BUY",
-    "entry": 17700.0,
-    "sl": 17580.0,
-    "tp": 17950.0,
-    "comment": "DAX Rebound Long – Range-Support bei 17.700 hält, RSI neutralisiert"
+    "order": "SELL",
+    "entry": 23950.0,
+    "sl": 24100.0,
+    "tp": 23700.0,
+    "comment": "DAX Short bei Risiko‑Off (geopolitischer Schock)"
   },
   {
     "symbol": "GOLD",
     "order": "BUY",
-    "entry": 3965.0,
-    "sl": 3935.0,
-    "tp": 4015.0,
-    "comment": "Gold Long – Safe-Haven-Flow nach geopolitischen Spannungen, 20EMA-Support"
+    "entry": 3950.0,
+    "sl": 3920.0,
+    "tp": 4020.0,
+    "comment": "Gold Long – sichere Häfen bei Zins‑/USD‑Unsicherheit"
   },
   {
     "symbol": "GOLD",
     "order": "SELL",
     "entry": 4025.0,
     "sl": 4055.0,
-    "tp": 3970.0,
-    "comment": "Gold Short – USD-Stärke bei 10Y-Renditen über 4,7 %, MACD Divergenz"
+    "tp": 3950.0,
+    "comment": "Gold Short – wenn USD/Zinsdruck durchbricht"
   },
   {
     "symbol": "SILVER",
     "order": "BUY",
-    "entry": 26.00,
-    "sl": 25.70,
-    "tp": 26.80,
-    "comment": "Silber Long – folgt Gold-Momentum, RSI über 50, Break über 25.90 bestätigt"
+    "entry": 50.80,
+    "sl": 49.80,
+    "tp": 53.00,
+    "comment": "Silber Long – folgt Gold, jedoch stärker volatil"
+  },
+  {
+    "symbol": "SILVER",
+    "order": "SELL",
+    "entry": 53.20,
+    "sl": 54.20,
+    "tp": 50.40,
+    "comment": "Silber Short – bei abgeblasener Risiko‑Stimmung"
+  },
+  {
+    "symbol": "EURUSD",
+    "order": "BUY",
+    "entry": 1.0670,
+    "sl": 1.0630,
+    "tp": 1.0730,
+    "comment": "EUR/USD Long – leichte EZB‑Entspannung, moderater EUR"
   },
   {
     "symbol": "EURUSD",
     "order": "SELL",
-    "entry": 1.0710,
-    "sl": 1.0750,
-    "tp": 1.0640,
-    "comment": "EUR/USD Short – USD-Momentum nach Fed-Kommentar, 20/50EMA Cross"
-  },
-  {
-    "symbol": "EURUSD",
-    "order": "BUY",
-    "entry": 1.0660,
-    "sl": 1.0620,
-    "tp": 1.0740,
-    "comment": "EUR/USD Long – Support bei 1.0660 stabil, technische Gegenbewegung möglich"
+    "entry": 1.0745,
+    "sl": 1.0780,
+    "tp": 1.0670,
+    "comment": "EUR/USD Short – falls USD‑Stärke dominiert"
   },
   {
     "symbol": "USDJPY",
     "order": "BUY",
-    "entry": 151.30,
-    "sl": 150.70,
+    "entry": 150.90,
+    "sl": 150.10,
     "tp": 152.50,
-    "comment": "USD/JPY Long – Zinsdifferenz bleibt hoch, MACD positiv, ATR-Trend stabil"
+    "comment": "USD/JPY Long – USD‑Zinsdifferenz und Risk‑Off möglich"
   },
   {
     "symbol": "USDJPY",
     "order": "SELL",
-    "entry": 150.50,
-    "sl": 151.10,
-    "tp": 149.60,
-    "comment": "USD/JPY Short – technischer Pullback nach RSI-Überkauft über 70"
+    "entry": 152.70,
+    "sl": 153.50,
+    "tp": 150.80,
+    "comment": "USD/JPY Short – Yen‑Stärke bei globalem Wachstumsproblem"
   },
   {
     "symbol": "WTI",
     "order": "BUY",
-    "entry": 74.20,
-    "sl": 72.80,
-    "tp": 77.40,
-    "comment": "WTI Long – geopolitische Spannungen stützen, 4h-Support bestätigt"
+    "entry": 75.80,
+    "sl": 74.50,
+    "tp": 78.60,
+    "comment": "WTI Long – geopolitisches Risiko + moderater Wachstumsausblick"
   },
   {
     "symbol": "WTI",
     "order": "SELL",
-    "entry": 73.00,
-    "sl": 74.50,
-    "tp": 70.80,
-    "comment": "WTI Short – Nachfrageangst nach US-Inventardaten, EMA-Cross bärisch"
+    "entry": 78.80,
+    "sl": 80.20,
+    "tp": 75.00,
+    "comment": "WTI Short – bei globaler Nachfrage‑Schwäche"
   }
 ]
