@@ -2,97 +2,129 @@
   {
     "symbol": "Ger40",
     "order": "BUY",
-    "entry": 23850.0,
-    "sl": 23730.0,
-    "tp": 24090.0,
-    "comment": "DAX Long – starker Rebound nach Unterstützungszone"
+    "entry": 23810.0,
+    "sl": 23640.0,
+    "tp": 24040.0,
+    "comment": "DAX Long – bullisher Rebound über EMA50"
   },
   {
     "symbol": "Ger40",
     "order": "SELL",
-    "entry": 24120.0,
-    "sl": 24250.0,
-    "tp": 23800.0,
-    "comment": "DAX Short – Widerstand bei 24 100 und Risiko-Off möglich"
+    "entry": 23600.0,
+    "sl": 23760.0,
+    "tp": 23350.0,
+    "comment": "DAX Short – Gewinnmitnahmen nach Rally"
   },
   {
     "symbol": "GOLD",
     "order": "BUY",
-    "entry": 3975.0,
-    "sl": 3945.0,
-    "tp": 4025.0,
-    "comment": "Gold Long – Safe-Haven gefragt bei geopolitischer Unsicherheit"
+    "entry": 4030.0,
+    "sl": 3990.0,
+    "tp": 4085.0,
+    "comment": "Gold Long – geopolitische Unsicherheiten"
   },
   {
     "symbol": "GOLD",
     "order": "SELL",
-    "entry": 4020.0,
-    "sl": 4050.0,
-    "tp": 3955.0,
-    "comment": "Gold Short – USD-Stärke könnte Edelmetalle belasten"
+    "entry": 3980.0,
+    "sl": 4020.0,
+    "tp": 3920.0,
+    "comment": "Gold Short – starker USD & Renditeanstieg"
   },
   {
     "symbol": "SILVER",
     "order": "BUY",
-    "entry": 52.40,
-    "sl": 51.70,
-    "tp": 53.80,
-    "comment": "Silber Long – Technik bestätigt Aufwärtsdrift angelehnt an Gold"
+    "entry": 48.60,
+    "sl": 48.00,
+    "tp": 49.80,
+    "comment": "Silber Long – Nachfrage aus Industrie & ETF-Zuflüsse"
   },
   {
     "symbol": "SILVER",
     "order": "SELL",
-    "entry": 53.60,
-    "sl": 54.20,
-    "tp": 52.00,
-    "comment": "Silber Short – Risikoappetit sorgt für Rückgang der Industriemetalle"
-  },
-  {
-    "symbol": "EURUSD",
-    "order": "BUY",
-    "entry": 1.0675,
-    "sl": 1.0630,
-    "tp": 1.0740,
-    "comment": "EUR/USD Long – EUR stabilisiert sich trotz US-Daten"
-  },
-  {
-    "symbol": "EURUSD",
-    "order": "SELL",
-    "entry": 1.0745,
-    "sl": 1.0785,
-    "tp": 1.0660,
-    "comment": "EUR/USD Short – USD könnte durch Erholung steigen"
-  },
-  {
-    "symbol": "USDJPY",
-    "order": "BUY",
-    "entry": 151.40,
-    "sl": 150.80,
-    "tp": 152.80,
-    "comment": "USD/JPY Long – USD-Renditen und JPY-Schwäche bleiben Thema"
-  },
-  {
-    "symbol": "USDJPY",
-    "order": "SELL",
-    "entry": 150.80,
-    "sl": 151.40,
-    "tp": 149.60,
-    "comment": "USD/JPY Short – Yen könnte Stärke zeigen bei Risiko-Off"
+    "entry": 48.10,
+    "sl": 48.70,
+    "tp": 47.20,
+    "comment": "Silber Short – technische Gegenreaktion"
   },
   {
     "symbol": "LCrude",
     "order": "BUY",
-    "entry": 76.80,
-    "sl": 75.60,
-    "tp": 79.20,
-    "comment": "LCrude Long – Angebotssorgen & Konjunkturerholung sprechen für Öl"
+    "entry": 59.80,
+    "sl": 58.60,
+    "tp": 62.20,
+    "comment": "WTI Long – Risikoaufschläge durch Nahostlage"
   },
   {
     "symbol": "LCrude",
     "order": "SELL",
-    "entry": 79.40,
-    "sl": 80.80,
-    "tp": 76.00,
-    "comment": "LCrude Short – Nachfrage-Schwäche könnte Öl unter Druck setzen"
+    "entry": 62.50,
+    "sl": 63.50,
+    "tp": 60.00,
+    "comment": "WTI Short – schwache US-Lagerdaten erwartet"
+  },
+  {
+    "symbol": "EURUSD",
+    "order": "BUY",
+    "entry": 1.0840,
+    "sl": 1.0780,
+    "tp": 1.0940,
+    "comment": "EURUSD Long – technische Gegenbewegung nach CPI-Daten"
+  },
+  {
+    "symbol": "EURUSD",
+    "order": "SELL",
+    "entry": 1.0780,
+    "sl": 1.0840,
+    "tp": 1.0680,
+    "comment": "EURUSD Short – Dollar profitiert von Zinserwartungen"
+  },
+  {
+    "symbol": "USDJPY",
+    "order": "BUY",
+    "entry": 153.30,
+    "sl": 152.70,
+    "tp": 154.60,
+    "comment": "USDJPY Long – Carry-Trade-Nachfrage"
+  },
+  {
+    "symbol": "USDJPY",
+    "order": "SELL",
+    "entry": 152.60,
+    "sl": 153.30,
+    "tp": 151.40,
+    "comment": "USDJPY Short – BOJ-Sitzung im Fokus"
+  },
+  {
+    "symbol": "GBPUSD",
+    "order": "BUY",
+    "entry": 1.2750,
+    "sl": 1.2690,
+    "tp": 1.2860,
+    "comment": "GBPUSD Long – hawkisher BoE-Ton"
+  },
+  {
+    "symbol": "AUDUSD",
+    "order": "BUY",
+    "entry": 0.6630,
+    "sl": 0.6590,
+    "tp": 0.6700,
+    "comment": "AUDUSD Long – positive China-Daten stützen"
+  },
+  {
+    "symbol": "USDCAD",
+    "order": "SELL",
+    "entry": 1.3630,
+    "sl": 1.3690,
+    "tp": 1.3520,
+    "comment": "USDCAD Short – Ölpreis zieht Loonie mit"
+  },
+  {
+    "symbol": "EURJPY",
+    "order": "BUY",
+    "entry": 166.20,
+    "sl": 165.50,
+    "tp": 167.80,
+    "comment": "EURJPY Long – Stabilisierung über EMA20"
   }
 ]
